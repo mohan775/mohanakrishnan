@@ -7,7 +7,7 @@ interface two {
 
 class pulsar implements two {
     public void makeSound() {
-        System.out.println("dur!");
+        System.out.println("durrrrrrr!");
     }
 }
 class inheritance2 {
